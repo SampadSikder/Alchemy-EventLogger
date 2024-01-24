@@ -1,3 +1,6 @@
+<div style="width:100%; justify-content:center; display:flex;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Ra-GtMaBJGZLadmD39Jb7YffrKP77Lq0SJvwzhgjoA&s"></img></div>
+
 # Alchemy-EventLogger
 
 An ExpressJS server designed to decode event data of contracts
